@@ -1,2 +1,2 @@
 # tateti
-Tateti C#
+Tateti en C#
